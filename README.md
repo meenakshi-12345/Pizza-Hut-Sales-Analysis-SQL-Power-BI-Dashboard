@@ -27,7 +27,8 @@ The business wanted to understand:
 
 > Provides an overall view of business performance including KPIs, revenue distribution, sales trends, order patterns, and customer preferences.
 
-<img width="763" height="429" alt="image" src="https://github.com/user-attachments/assets/f7ed2386-ab4d-409f-821e-91bee9de3706" />
+<img width="762" height="427" alt="Screenshot 2026-07-20 152508" src="https://github.com/user-attachments/assets/474632e5-b701-4ae9-acd1-0b91d1793344" />
+
 
 
 ---
