@@ -27,7 +27,8 @@ The business wanted to understand:
 
 > Provides an overall view of business performance including KPIs, revenue distribution, sales trends, order patterns, and customer preferences.
 
-<img width="771" height="433" alt="image" src="https://github.com/user-attachments/assets/87f7891e-6eea-4bde-a6e8-c8ea9274661e" />
+<img width="763" height="429" alt="image" src="https://github.com/user-attachments/assets/f7ed2386-ab4d-409f-821e-91bee9de3706" />
+
 
 ---
 
@@ -35,7 +36,7 @@ The business wanted to understand:
 
 > Identifies the Top 5 and Bottom 5 pizzas based on revenue and highlights opportunities for improving low-performing products.
 
-<img width="772" height="432" alt="image" src="https://github.com/user-attachments/assets/4c59d9a6-edc2-4d64-9452-ebe29cbbf2d6" />
+<img width="765" height="429" alt="image" src="https://github.com/user-attachments/assets/f0161fb7-1414-4908-b3d2-e700edff4387" />
 
 
 ---
@@ -46,7 +47,7 @@ The business wanted to understand:
 
 
 
-<img width="770" height="432" alt="image" src="https://github.com/user-attachments/assets/5ec97fbd-4b4c-4797-8b47-afd10f4346b0" />
+<img width="762" height="427" alt="image" src="https://github.com/user-attachments/assets/a1128264-16c1-4436-8d0e-cf308426daef" />
 
 
 ---
